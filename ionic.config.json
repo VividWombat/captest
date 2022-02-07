@@ -1,0 +1,8 @@
+{
+  "name": "captest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ee89d25b"
+}
